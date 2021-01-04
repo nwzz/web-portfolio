@@ -1,0 +1,19 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+h1{
+    font-size: 40px;
+
+}
+.name-hilight{
+    color: orange;
+}
+.first-half-width{
+width: 40%;
+float: left;
+margin-left: 5%;
+padding-left: 2%;
+}
+.first-half-width img{
+    width: 100%;
+}
